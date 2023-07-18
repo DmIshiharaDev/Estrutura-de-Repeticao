@@ -2,7 +2,7 @@
 
 ## Loop de repetição
 
--Em português é o mesmo que ciclo;
+-Em português é o mesmo que ciclo;  
 -For e While
 
 ## For
